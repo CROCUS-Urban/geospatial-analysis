@@ -1,0 +1,17 @@
+name: geospatial-analysis-dev
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - xarray
+  - matplotlib
+  - netcdf4
+  - pillow
+  - metpy
+  - numpy
+  - pip
+  - pip:
+    - sage-data-client
+    - ambient-api
