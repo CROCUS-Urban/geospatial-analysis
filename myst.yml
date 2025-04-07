@@ -13,6 +13,7 @@ project:
   toc:
     - file: README.md
     - file: content/sample-temperature-dashboard.md
+    - file: content/mrr-atmos.md
 site:
   options:
     logo: images/CROCUS_Logo.svg
