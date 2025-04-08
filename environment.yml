@@ -3,7 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - jupyterlab
   - numpy
+  - act-atmos
   - scipy
   - xarray
   - matplotlib
@@ -16,3 +18,7 @@ dependencies:
   - pip:
     - sage-data-client
     - ambient-api
+    - windrose
+    - sage-data-client
+    - nexradaws
+    - git+https://github.com/mgcarre/PythonMETAR
