@@ -43,6 +43,7 @@ jobs:
           post-cleanup: "all"
           create-args: python=3.12
       - name: Build HTML Assets
+        shell: bash -l {0}
         run: myst build --html --execute
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
