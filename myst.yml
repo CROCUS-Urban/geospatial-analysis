@@ -12,10 +12,11 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
+    - file: content/surface-map.ipynb
+    - file: content/cocorahs.md
     - file: content/sample-temperature-dashboard.md
     - file: content/mrr-atmos.md
     - file: content/mrr-pro-neiu.md
-    - file: content/surface-map.ipynb
 site:
   options:
     logo: images/CROCUS_Logo.svg
