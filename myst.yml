@@ -22,6 +22,7 @@ project:
       children:
         - file: content/site-level-weather/villa-park.ipynb
         - file: content/site-level-weather/humboldt-park.ipynb
+        - file: content/site-level-weather/university-of-illinois-chicago.ipynb
 site:
   options:
     logo: images/CROCUS_Logo.svg
