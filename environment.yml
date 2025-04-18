@@ -11,9 +11,12 @@ dependencies:
   - matplotlib
   - netcdf4
   - pillow
-  - metpy
+  - holoviews
+  - hvplot
+  - bokeh
   - numpy
   - mystmd
+  - metpy
   - pip
   - pip:
     - sage-data-client
