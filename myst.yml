@@ -21,6 +21,7 @@ project:
     - title: Site-Level Conditions
       children:
         - file: content/site-level-weather/villa-park.ipynb
+        - file: content/site-level-weather/humboldt-park.ipynb
 site:
   options:
     logo: images/CROCUS_Logo.svg
