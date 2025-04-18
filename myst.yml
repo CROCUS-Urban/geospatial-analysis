@@ -17,6 +17,9 @@ project:
     - file: content/sample-temperature-dashboard.md
     - file: content/mrr-atmos.md
     - file: content/mrr-pro-neiu.md
+    - title: Site-Level Conditions
+      children:
+        - file: content/site-level-weather/villa-park.ipynb
 site:
   options:
     logo: images/CROCUS_Logo.svg
