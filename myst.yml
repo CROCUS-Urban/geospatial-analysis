@@ -20,9 +20,13 @@ project:
     - file: content/mrr-pro-neiu.md
     - title: Site-Level Conditions
       children:
-        - file: content/site-level-weather/villa-park.ipynb
+        - file: content/site-level-weather/chicago-state-university.ipynb
+        - file: content/site-level-weather/northeastern-illinois-university.ipynb
         - file: content/site-level-weather/humboldt-park.ipynb
         - file: content/site-level-weather/university-of-illinois-chicago.ipynb
+        - file: content/site-level-weather/west-woodlawn.ipynb
+        - file: content/site-level-weather/downers-grove.ipynb
+        - file: content/site-level-weather/villa-park.ipynb
 site:
   options:
     logo: images/CROCUS_Logo.svg
