@@ -14,7 +14,6 @@ project:
     - file: README.md
     - file: content/surface-map.ipynb
     - file: content/cocorahs.md
-    - file: content/all-precip.ipynb
     - file: content/soil-moisture.md
     - file: content/sample-temperature-dashboard.md
     - file: content/mrr-atmos.md
