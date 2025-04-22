@@ -24,7 +24,10 @@ project:
         - file: content/site-level-weather/northeastern-illinois-university.ipynb
         - file: content/site-level-weather/humboldt-park.ipynb
         - file: content/site-level-weather/university-of-illinois-chicago.ipynb
+        - file: content/site-level-weather/northwestern-university.ipynb
         - file: content/site-level-weather/west-woodlawn.ipynb
+        - file: content/site-level-weather/argonne-atmos.ipynb
+        - file: content/site-level-weather/neiu-ccics.ipynb
         - file: content/site-level-weather/downers-grove.ipynb
         - file: content/site-level-weather/villa-park.ipynb
 site:
